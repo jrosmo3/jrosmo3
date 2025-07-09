@@ -8,7 +8,7 @@
 ## 🧰 My Toolbox
 
 - 💻 Languages: ASM, C/C++, Python, Bash, PowerShell, PHP
-- 🔧 Tools: Burp Suite, Metasploit, Cobalt Strike, Wireshark, Prowler, Autopsy, Codesonar, Codesentry, IDA Pro...
+- 🔧 Tools: Burp Suite, Metasploit, Cobalt Strike, Wireshark, Prowler, Autopsy, Codesonar, Codesentry, InmunityDebugger, x32/x64dbg, IDA Pro, CodeSentry, CodeSonar, LDRA, BSTORM, Seeker, VectorCast
 - 🛠 Frameworks: MITRE ATT&CK, NIST, ENS, ISO 27001
 - ☁️ Cloud: Azure, AWS, Docker
 - 🧠 Certifications: eCPPT, CRTO, eWPTX, CCSP, CDPP, MITRE ATT&CK, HTB DANTE, HTB RASTALABS, HTB CYBERNETICS, HTB APTLABS...
