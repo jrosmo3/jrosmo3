@@ -12,6 +12,7 @@
 - 🛠 Frameworks: MITRE ATT&CK, NIST, ENS, ISO 27001
 - ☁️ Cloud: Azure, AWS, Docker
 - 🧠 Certifications: eCPPT, CRTO, eWPTX, CCSP, CDPP, MITRE ATT&CK, HTB DANTE, HTB RASTALABS, HTB CYBERNETICS, HTB APTLABS...
+- 🧠 CTF Player: Top 1% ATENEA CCN-CERT
 
 ---
 
