@@ -1,7 +1,7 @@
 # 👋 Hi, I'm 1n51d3r
 
 🚀 Cybersecurity professional with 15+ years of experience in offensive security, red teaming, and digital forensics. Helping organizations strengthen their security posture through advanced testing and compliance strategies.
-🎓 I hold **two Master’s Degrees in Cybersecurity**, both completed with **highest distinction (Matrícula de Honor)** — a testament to my dedication and academic excellence in the field. Currently pursuing a PhD in Computer Science.
+🎓 I hold **two Master’s Degrees in Cybersecurity**, both completed with **highest distinction (Matrícula de Honor)** — a testament to my dedication and academic excellence in the field. Currently pursuing a PhD in Computer Science in the Air Force as a senior officer.
 
 ---
 
