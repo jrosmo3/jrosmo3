@@ -11,8 +11,8 @@
 - 🔧 Tools: Burp Suite, Metasploit, Cobalt Strike, Wireshark, Prowler, Autopsy, Codesonar, Codesentry, InmunityDebugger, x32/x64dbg, IDA Pro, CodeSentry, CodeSonar, LDRA, BSTORM, Seeker, VectorCast.
 - 🛠 Frameworks: OWASP, MITRE ATT&CK, NIST, ENS, ISO 27001.
 - ☁️ Cloud: Azure, AWS, Docker
-- 🧠 Certifications: eCPPT, CRTO, eWPTX, CCSP, CDPP, MITRE ATT&CK, HTB DANTE, HTB RASTALABS, HTB CYBERNETICS, HTB APTLABS...
-- 🧠 CTF Player: Top 1% ATENEA CCN-CERT + Winning team at Navaja Negra 2025 (P4J4RR4C05_C4RP1N73R4C05) + TOP 5 Atenea Jornadas CCN-CERT 2025.
+- 🧠 Certifications: eCPPT, CRTO, CRTO II, eWPTX, CCSP, CDPP, MITRE ATT&CK, HTB DANTE, HTB RASTALABS, HTB CYBERNETICS, HTB APTLABS, MalDev Academy Cert...
+- 🧠 CTF Player: Top 1% ATENEA CCN-CERT + Winning team at Navaja Negra 2025 (P4J4RR4C05_C4RP1N73R4C05) + TOP 5 Atenea Jornadas CCN-CERT 2025 (1st place in Web Hacking).
 
 ---
 
